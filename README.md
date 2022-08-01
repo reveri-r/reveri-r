@@ -11,10 +11,11 @@
   
   <img src="https://raw.githubusercontent.com/reveri-r/icons/main/cpp.png" title="C++" height="30" style="vertical-align:top; margin:10px">
  
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" height="30" style="vertical-align:top; margin:10px">
+ 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" height="30" style="vertical-align:top; margin:10px">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" height="30" style="vertical-align:top; margin:10px">
+
  
 </p>
 
