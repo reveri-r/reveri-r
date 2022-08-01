@@ -2,7 +2,7 @@
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" height="30" style="vertical-align:top; margin:10px">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="Javascript" height="30" style="vertical-align:top; margin:10px; border-radius: 10px;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="Javascript" height="30" style="vertical-align:top; margin:10px; border-radius: 100px;">
   
   
 <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg" title="Flutter" height="30" style="vertical-align:top; margin:10px">
