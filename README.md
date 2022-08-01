@@ -9,7 +9,7 @@
   
   <img src="https://raw.githubusercontent.com/reveri-r/icons/56b0a6919052cc08ffb899c91b3a1da6cca44773/c--4.svg" title="C#" height="30" style="vertical-align:top; margin:10px">
   
-    <img src="https://raw.githubusercontent.com/reveri-r/icons/main/cpp.png" title="C++" height="30" style="vertical-align:top; margin:10px">
+    <img src="https://raw.githubusercontent.com/reveri-r/icons/main/cpp.png" title="C#" height="30" style="vertical-align:top; margin:10px">
   
   
 </p>
