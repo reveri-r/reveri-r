@@ -9,7 +9,7 @@
   
   <img src="https://raw.githubusercontent.com/reveri-r/icons/56b0a6919052cc08ffb899c91b3a1da6cca44773/c--4.svg" title="C#" height="40" style="vertical-align:top; margin:10px">
   
-  <img src="https://raw.githubusercontent.com/reveri-r/icons/main/cpp.png" title="C++" height="40" style="vertical-align:top; margin:10px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" title="C" height="40" style="vertical-align:top; margin:10px">
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" height="40" style="vertical-align:top; margin:10px">
  
@@ -33,8 +33,8 @@
   
    <img src="https://venturebeat.com/wp-content/uploads/2019/11/visual-studio-logo.jpeg?w=1200&strip=all" title="Visual Studio" height="40" style="vertical-align:top; margin:4px">
  
- <img src="https://assets.website-files.com/5f6bc60e665f54545a1e52a5/613f691a75c36d203344223d_open-graph.png" title="Visual Studio" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://149611589.v2.pressablecdn.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png" title="Visual Studio" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://assets.website-files.com/5f6bc60e665f54545a1e52a5/613f691a75c36d203344223d_open-graph.png" title="Roboflow" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://149611589.v2.pressablecdn.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png" title="Figma" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 
