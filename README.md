@@ -38,4 +38,11 @@
 </p>
 
 
+</p>
 
+ ## 💿 **Operating Systems:**
+<p>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgPyPaqIjZeqbqqUmZr4L8kzILkKKIgg8jzUTCR6vS_-4f4uJMyDE3Ng4xHJWu3IBRVkA&usqp=CAU" title="Arch Linux" height="40" style="vertical-align:top; margin:4px">
+  
+
+</p>
