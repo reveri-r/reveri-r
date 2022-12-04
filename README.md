@@ -43,6 +43,6 @@
  ## 💿 **Operating Systems:**
 <p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgPyPaqIjZeqbqqUmZr4L8kzILkKKIgg8jzUTCR6vS_-4f4uJMyDE3Ng4xHJWu3IBRVkA&usqp=CAU" title="Arch Linux" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://wallpaperaccess.com/full/4911061.png" title="Fedora" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://i.pinimg.com/originals/d0/ef/8c/d0ef8cbb11f046406bdd7c18a71dd679.jpg" title="Fedora" height="40" style="vertical-align:top; margin:4px">
 
 </p>
