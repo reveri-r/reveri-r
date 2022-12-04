@@ -21,7 +21,7 @@
 
  ## ✏️ **Training On:**
 <p>
-  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/java.svg" title="Java" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://trendblog.net/wp-content/uploads/2022/02/Black-Java-Wallpaper-HD.png" title="Java" height="40" style="vertical-align:top; margin:4px">
   
 
 </p>
