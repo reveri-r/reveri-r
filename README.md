@@ -29,7 +29,7 @@
 
 ## ⚙️ **Tools:**
 <p>
-  <img src="https://tanweb.net/wordpress/wp-content/uploads/2020/01/ecvsc-202209.png" title="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MChN-7fP--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/bcbl1qw0mg1uh1rftxrp.PNG" title="VS Code" height="40" style="vertical-align:top; margin:4px">
   
    <img src="https://venturebeat.com/wp-content/uploads/2019/11/visual-studio-logo.jpeg?w=1200&strip=all" title="Visual Studio" height="40" style="vertical-align:top; margin:4px">
  
