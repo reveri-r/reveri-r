@@ -5,6 +5,9 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="Javascript" height="40" style="vertical-align:top; margin:10px; border-radius: 100px;">
   
  <img src="https://seeklogo.com/images/R/raspberry-pi-logo-8240ABBDFE-seeklogo.com.png" title="Raspberry Pi" height="40" style="vertical-align:top; margin:10px; border-radius: 100px;">
+   
+ <img src="https://cdn.cdnlogo.com/logos/a/17/arduino.svg" title="Arduino" height="40" style="vertical-align:top; margin:10px; border-radius: 100px;">
+
  
 <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg" title="Flutter" height="40" style="vertical-align:top; margin:10px">
   
