@@ -2,7 +2,6 @@
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" height="40" style="vertical-align:top; margin:10px">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="Javascript" height="40" style="vertical-align:top; margin:10px; border-radius: 100px;">
   
  <img src="https://seeklogo.com/images/R/raspberry-pi-logo-8240ABBDFE-seeklogo.com.png" title="Raspberry Pi" height="40" style="vertical-align:top; margin:10px; border-radius: 100px;">
    
@@ -15,10 +14,6 @@
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" title="C" height="40" style="vertical-align:top; margin:10px">
  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" height="40" style="vertical-align:top; margin:10px">
- 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" height="40" style="vertical-align:top; margin:10px">
-
 
  
 </p>
