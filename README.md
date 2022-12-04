@@ -21,7 +21,7 @@
 
  ## ✏️ **Training On:**
 <p>
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" title="Java" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://developerapp.ir/images/blog/java.png" title="Java" height="40" style="vertical-align:top; margin:4px">
   
 
 </p>
