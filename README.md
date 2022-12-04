@@ -29,9 +29,9 @@
 
 ## ⚙️ **Tools:**
 <p>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://miro.medium.com/max/1400/0*SGbxc-dbU0gyaVWm.jpg" title="VS Code" height="40" style="vertical-align:top; margin:4px">
   
-   <img src="https://user-images.githubusercontent.com/12221569/57069689-638d6700-6ce6-11e9-8898-59186ef0513e.PNG" title="Visual Studio" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://venturebeat.com/wp-content/uploads/2019/11/visual-studio-logo.jpeg?w=1200&strip=all" title="Visual Studio" height="40" style="vertical-align:top; margin:4px">
  
  <img src="https://assets.website-files.com/5f6bc60e665f54545a1e52a5/613f691a75c36d203344223d_open-graph.png" title="Visual Studio" height="40" style="vertical-align:top; margin:4px">
   <img src="https://149611589.v2.pressablecdn.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png" title="Visual Studio" height="40" style="vertical-align:top; margin:4px">
