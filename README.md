@@ -4,7 +4,9 @@
 
   
  <img src="https://seeklogo.com/images/R/raspberry-pi-logo-8240ABBDFE-seeklogo.com.png" title="Raspberry Pi" height="40" style="vertical-align:top; margin:10px; border-radius: 100px;">
-   
+ 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" title="Raspberry Pi" height="40" style="vertical-align:top; margin:10px; border-radius: 100px;">
+ 
  <img src="https://cdn.cdnlogo.com/logos/a/17/arduino.svg" title="Arduino" height="40" style="vertical-align:top; margin:10px; border-radius: 100px;">
 
  
