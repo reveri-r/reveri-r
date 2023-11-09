@@ -41,6 +41,7 @@
   <img src="https://149611589.v2.pressablecdn.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png" title="Figma" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+<img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"   style="vertical-align:top; margin:10px">
 
 </p>
 
