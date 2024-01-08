@@ -1,5 +1,6 @@
 
-<img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"   style="vertical-align:top; margin:10px">
+<img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"   style="vertical-align:top; margin:10px"> </img>
+![Reveri-r's GitHub stats](https://github-readme-stats.vercel.app/api?username=reveri-r&show_icons=true&theme=radical)
 
 
  ## 💻 **Working On:**
@@ -44,7 +45,6 @@
 
 
 </p>
-![Reveri-r's GitHub stats](https://github-readme-stats.vercel.app/api?username=reveri-r&show_icons=true&theme=radical)
 
  ## 💿 **Operating Systems:**
 <p>
